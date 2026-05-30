@@ -1,4 +1,27 @@
 body{
-  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-family:'Courier New', Courier, monospace;
+  font-size: 100%;
+} 
+
+header{
+  background-color: #FFC4FC; 
+}
+
+nav{
+  background-color: #C4FFC7;
   font-size: 150%;
-} this is an edited version. Can you find it?
+  justify-content: space-evenly;
+}
+main{
+  background-color: #FFE4C4;
+  font-size: 150%;
+}
+
+footer{
+  background-color: #C7C4FF;
+}
+
+/*li{
+  display: inline-block;
+  height: 50px;
+}*/

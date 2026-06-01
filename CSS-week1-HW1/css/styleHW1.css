@@ -4,13 +4,14 @@ body{
 } 
 
 header{
-  background-color: #FFC4FC; 
+  background-color: #FFC4FC;
+  display: block;
 }
 
 nav{
   background-color: #C4FFC7;
   font-size: 150%;
-  justify-content: space-evenly;
+
 }
 main{
   background-color: #FFE4C4;
@@ -21,7 +22,8 @@ footer{
   background-color: #C7C4FF;
 }
 
-/*li{
+li{
+  text-align:center;
   display: inline-block;
-  height: 50px;
-}*/
+  
+}

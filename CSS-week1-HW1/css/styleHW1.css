@@ -23,7 +23,7 @@ footer{
 }
 
 li{
-  text-align:center;
-  display: inline-block;
-  
+  list-style: none;
+  display: inline;
+  margin-left: 1000px;
 }

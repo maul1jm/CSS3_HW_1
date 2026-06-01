@@ -5,12 +5,13 @@ body{
 
 header{
   background-color: #FFC4FC;
-  display: block;
+  display: float;
 }
 
 nav{
   background-color: #C4FFC7;
   font-size: 150%;
+  display: block;
 
 }
 main{

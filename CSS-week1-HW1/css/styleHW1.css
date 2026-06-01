@@ -16,6 +16,7 @@ nav{
 main{
   background-color: #FFE4C4;
   font-size: 150%;
+  display: inline-block;
 }
 
 footer{
@@ -23,7 +24,17 @@ footer{
 }
 
 li{
-  list-style: none;
-  display: inline;
-  margin-left: 1000px;
+  display: inline-block;
+  width:  500px;
+  text-align: center;
+}
+
+h1{
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+  color: #4039BF;
+  text-align: center;
+}
+
+p{
+  height: 40px;
 }
